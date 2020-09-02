@@ -948,115 +948,115 @@ def redrawWindow():
     
     elif page == "Cubes8thPage1":
         User_Interface()
-        win.blit(p1_chhapter2_std8, (50, 80))
+        win.blit(p1_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage2":
         User_Interface()
-        win.blit(p2_chhapter2_std8, (50, 80))
+        win.blit(p2_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage3":
         User_Interface()
-        win.blit(p3_chhapter2_std8, (50, 80))
+        win.blit(p3_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage4":
         User_Interface()
-        win.blit(p4_chhapter2_std8, (50, 80))
+        win.blit(p4_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage5":
         User_Interface()
-        win.blit(p1_chhapter2_std8, (50, 80))
+        win.blit(p1_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage1":
         User_Interface()
-        win.blit(p5_chhapter2_std8, (50, 80))
+        win.blit(p5_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage6":
         User_Interface()
-        win.blit(p6_chhapter2_std8, (50, 80))
+        win.blit(p6_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage7":
         User_Interface()
-        win.blit(p7_chhapter2_std8, (50, 80))
+        win.blit(p7_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage8":
         User_Interface()
-        win.blit(p8_chhapter2_std8, (50, 80))
+        win.blit(p8_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage9":
         User_Interface()
-        win.blit(p9_chhapter2_std8, (50, 80))
+        win.blit(p9_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage10":
         User_Interface()
-        win.blit(p10_chhapter2_std8, (50, 80))
+        win.blit(p10_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage11":
         User_Interface()
-        win.blit(p11_chhapter2_std8, (50, 80))
+        win.blit(p11_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage12":
         User_Interface()
-        win.blit(p12_chhapter2_std8, (50, 80))
+        win.blit(p12_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage13":
         User_Interface()
-        win.blit(p13_chhapter2_std8, (50, 80))
+        win.blit(p13_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage14":
         User_Interface()
-        win.blit(p14_chhapter2_std8, (50, 80))
+        win.blit(p14_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage15":
         User_Interface()
-        win.blit(p15_chhapter2_std8, (50, 80))
+        win.blit(p15_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage16":
         User_Interface()
-        win.blit(p16_chhapter2_std8, (50, 80))
+        win.blit(p16_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage17":
         User_Interface()
-        win.blit(p17_chhapter2_std8, (50, 80))
+        win.blit(p17_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
     
     elif page == "Cubes8thPage18":
         User_Interface()
-        win.blit(p18_chhapter2_std8, (50, 80))
+        win.blit(p18_chapter2_std8, (50, 80))
         BackButton.draw(win, (0,0,0))
         NextPageButton.draw(win, (0,0,0))
         writeOnTheWindow("Get ready for a test")
